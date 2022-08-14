@@ -36,7 +36,7 @@ class car:
  print(ca2.cost)
  print(car. no_of_ca)
  
- print(ca2.cost)
+ 
  
  
  
